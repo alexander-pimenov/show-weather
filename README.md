@@ -7,13 +7,11 @@
 
 <h1 align="center">Погодник</h1>
 
-![hall]()
-![hall]()
+![hall](https://github.com/alexander-pimenov/show-weather/blob/main/images/page%20start.png)
+![hall](https://github.com/alexander-pimenov/show-weather/blob/main/images/page%20city%20selected.png)
 
 Не большое десктопное приложение, показывающее температуру указанного города.
 Название городоа можно писать, как на русском, так и английском языке.
 <br>Если город указан правильно, то Вы увидите данные температуры, давления
 на текущую дату.
 
-
-[]: https://github.com/alexander-pimenov/show-weather
